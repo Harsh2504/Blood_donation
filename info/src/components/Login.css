@@ -1,0 +1,17 @@
+.login{
+
+    text-align: start;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border-radius: 10px;
+    border: 2px solid rgb(156, 156, 156);
+
+
+}
+
+
+.login-header{
+margin-bottom: 5px;
+}

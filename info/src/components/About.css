@@ -1,0 +1,17 @@
+.about-header{
+    font-weight: bold;
+}
+.about{
+    text-align: start;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border-radius: 10px;
+    border: 2px solid rgb(156, 156, 156);
+}
+.about img{
+    max-width: 400px;
+    min-width: 300px;
+    max-height: 300px;
+    min-height: 250px;
+}

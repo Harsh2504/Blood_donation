@@ -1,0 +1,42 @@
+.comonent{
+    margin: 20px;
+    border: 1px solid pink;
+}
+.title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.blockdiv {
+    text-align: start;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border-radius: 10px;
+}
+
+.imgdiv{
+ 
+    width: 50%;
+   
+    max-width: 400px;
+    height: 200px;
+margin-left: 50px;
+margin-top: 50px;
+}
+
+.imgdiv img{
+    max-width: 100%;
+    height: auto;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+  
+}
+.para{
+ width: 80%;
+
+margin-left: 30px;
+ padding: 50px 100px 50px 110px;
+}
+
